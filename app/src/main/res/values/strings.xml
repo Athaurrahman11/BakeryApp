@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BakeWish</string>
+    <string name="artisanal_patisserie">Artisanal Patisserie</string>
+    <string name="welcome_title">Welcome to BakeWish!</string>
+    <string name="welcome_subtitle">Save the treats you love, freshly tracked.</string>
+    <string name="total_items">Total Items</string>
+    <string name="wishlist_value">Wishlist Value</string>
+    <string name="add_bakery_item">Add Bakery Item</string>
+    <string name="view_wishlist">View Wishlist</string>
+    <string name="recently_added">Recently Added</string>
+    <string name="see_all">See All</string>
+    <string name="reminder_title">Fresh Baking Tip</string>
+    <string name="reminder_desc">Keep your butter and cream chilled for the flakiest pastry layers!</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_add">Add Item</string>
+    <string name="nav_wishlist">Wishlist</string>
+    <string name="hint_item_name">Enter bakery item name</string>
+    <string name="label_category">Category</string>
+    <string name="label_price">Price (LKR)</string>
+    <string name="label_priority">Priority</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="save_item">Save Item</string>
+    <string name="update_item">Update Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="search_hint">Search wishlist treats...</string>
+    <string name="empty_wishlist">Your wishlist is empty. Add your favorite treats!</string>
+</resources>
